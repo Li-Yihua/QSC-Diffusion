@@ -8,6 +8,6 @@ This repository will contain the official implementation of our NeurIPS 2025 pap
 
 The code will be released shortly after the review process is complete. Please stay tuned.
 
-If you have any questions, feel free to reach out via GitHub issues or yihua.li@uzh.ch.
+If you have any questions, feel free to reach out via GitHub issues
 
 <!-- Optional: citation block -->
